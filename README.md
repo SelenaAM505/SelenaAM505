@@ -1,7 +1,7 @@
 # Selena Vasquez - Desarrolladora Frontend
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Purple_butterfly_icon.svg/240px-Purple_butterfly_icon.svg.png" alt="Mariposa púrpura" width="100" align="right" />
-Hola, soy **Selena Vasquez**, estudiante del Técnico Superior Universitario en Sistemas de la Información. Me especializo en desarrollo frontend y me apasiona crear interfaces limpias, funcionales y responsivas. 💻
+Hola, soy Selena Vasquez, estudiante del Técnico Superior Universitario en Sistemas de la Información. Me especializo en desarrollo frontend y me apasiona crear interfaces limpias, funcionales y responsivas. 💻
 
 > *"El código no solo funciona, también puede ser bello."*
 
